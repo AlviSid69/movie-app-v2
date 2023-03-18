@@ -31,7 +31,8 @@
     "plugins": [
         "react",
         "prettier",
-        "import"
+        "import",
+        "only-warn"
     ],
     "rules": {
         "indent": [
